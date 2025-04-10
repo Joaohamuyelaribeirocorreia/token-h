@@ -1,0 +1,23 @@
+{
+  "name": "token-h",
+  "version": "1.0.0",
+  "description": "Esta é uma lib baseada em token e semelhante ao jsonwebtoken.",
+  "main": "index.js",
+  "author": "João Hamuyela Ribeiro Correia",
+  "license": "MIT",
+  "keywords": ["jsonwebtoken", "token", "tkn", "token.js", "jwts", "jwt"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaohamuyelaribeirocorreia/token-h.git"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": { 
+    "crypto": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1",
+    "start": "node index.js"
+  }
+}
