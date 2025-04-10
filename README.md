@@ -110,6 +110,11 @@ Codifica um payload em um token H.
   Contribuições são bem-vindas! 
   Sinta-se à vontade para enviar pull requests ou abrir problemas para relatar bugs ou sugerir novos recursos.
 
+  # METADADOS
+  *Este trabalho foi criado em 10/04/2025 as 11🕓46, em Luanda, Angola.*
+  Criado por:
+  #### **João Hamuyela Ribeiro Correia**
+
   __From Hamuyela.__
 
    * token-h - Biblioteca JWT Simplificada
